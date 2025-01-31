@@ -1,0 +1,444 @@
+Sizzle & Spice - Restuarant
+
+This is a Restaurant html template made by codewithsangeetha
+
+
+
+#---------- TOP BAR ----------#
+
+<ion-icon name="location-outline" aria-hidden="true"></ion-icon>
+Sizzle & Spice, Lal Baug, Mumbai, India
+
+<ion-icon name="time-outline" aria-hidden="true"></ion-icon>
+Daily : 8.00 am to 10.00 pm
+
+<ion-icon name="call-outline" aria-hidden="true"></ion-icon>
++91 99038 56789
+
+<ion-icon name="mail-outline" aria-hidden="true"></ion-icon>
+booking@restaurant.com
+
+
+
+#---------- HEADER ----------#
+
+alt = Sizzle & Spice - Home
+
+aria-label = close menu
+<ion-icon name="close-outline" aria-hidden="true"></ion-icon>
+
+Home
+Menus
+About Us
+Our Chefs
+Contact
+
+Visit Us
+
+Sizzle & Spice, Lal Baug, Mumbai, India
+
+Open: 9.30 am - 2.30pm
+
+booking@restuarant.com
+
+Booking Request
++91 99038 56789
+
+Find A Table
+
+aria-label = open menu
+
+
+
+#---------- HERO ----------#
+
+Tradational & Hygine
+
+ For the Love of 
+Exceptional Cuisine
+
+Gather with your loved ones and indulge in the joy of mouthwatering, unforgettable meals.
+
+View Our Menu
+
+delightful experience
+
+Flavors Crafted 
+Nature’s Seasons
+
+amazing & delicious
+
+Where Every Bite 
+Unfolds a Story
+
+aria-label = slide to previous
+<ion-icon name="chevron-back"></ion-icon>
+
+aria-label = slide to next
+<ion-icon name="chevron-forward"></ion-icon>
+
+alt = booking icon
+
+Book A Table
+
+
+
+#---------- SERVICE ----------#
+
+Flavors For Royalty
+
+We Provide Exceptional Quality
+
+"Sizzle Ipsum is simply placeholder text used in the restaurant and branding industry. 
+Sizzle Ipsum has been the go-to dummy text for design projects ever since an unknown creator took a set of words and scrambled them to form a prototype for menus and logos. 
+It has stood the test of time, evolving and remaining relevant even as trends change."
+alt = Breakfast
+
+Breakfast
+View Menu
+
+Lunch
+
+Drinks
+
+alt = shape
+
+
+
+#---------- ABOUT ----------#
+
+Our Story
+
+Each Dish Unfolds a Tale
+
+Sizzle Ipsum is the essence of culinary creativity, blending diverse ingredients to tell unique, flavorful stories. 
+Sizzle Ipsum has become the go-to reference for innovative cuisine, where each dish offers a fresh, exciting experience.
+It has withstood the test of time, evolving while retaining its core of quality and craftsmanship, leaving an unforgettable impression on every plate.
+Book Through Call
+
++91 99038 56789
+
+Read More
+
+alt = about banner
+
+
+
+#---------- SPECIAL DISH ----------#
+
+alt = special dish
+
+alt = badge
+
+Special Dish
+
+Spaghetti Bolognese
+
+Spaghetti Bolognese is a classic Italian pasta dish featuring a rich, slow-cooked meat sauce made with minced beef, tomatoes, onions, and herbs. Served over spaghetti, it is hearty, flavorful, and perfect for a comforting meal. Though traditionally from Bologna, Italy, variations of this dish are popular worldwide. 🍝
+₹4000
+₹2000
+
+View All Menu
+
+
+
+#---------- MENU ----------#
+
+Special Selection
+
+Delicious Menu
+
+1.
+alt = Greek Salad
+Greek Salad
+
+Seasonal
+₹800
+Tomatoes, green bell pepper, sliced cucumber onion, olives, and feta cheese.
+
+2.
+alt = Lasagne
+Lasagne
+
+₹2000
+Vegetables, cheeses, ground meats, tomato sauce, seasonings and spices
+
+3.
+alt = Butternut Pumpkin
+Butternut Pumpkin
+
+₹1000
+Typesetting industry Sizzle Ipsum is simply dummy text of the priand.
+
+4.
+alt = Tokusen Wagyu
+Tokusen Wagyu
+
+New
+₹2500
+Vegetables, cheeses, ground meats, tomato sauce, seasonings and spices.
+
+5.
+alt = Olivas Rellenas
+Olivas Rellenas
+
+₹3000
+Avocados with crab meat, red onion, crab salad stuffed red bell pepper and green bell pepper.
+
+6.
+alt = Opu Fish
+Opu Fish
+
+₹3500
+Vegetables, cheeses, ground meats, tomato sauce, seasonings and spices
+
+During winter daily from 7:00 pm to 9:00 pm
+
+View All Menu
+
+
+
+#---------- TESTIMONIALS ----------#
+
+”
+"Grateful for the unforgettable evening and the exquisite flavors that made it truly special."
+
+alt = Serena Viatrix
+Serena Viatrix
+
+
+
+#---------- RESERVATION ----------#
+
+Online Reservation
+
+Booking request
+91 98234 56789
+or fill out the order form
+
+placeholder = Your Name
+placeholder = Phone Number
+
+<ion-icon name="person-outline" aria-hidden="true"></ion-icon>
+
+1 Person
+2 Person
+3 Person
+4 Person
+5 Person
+6 Person
+7 Person
+
+<ion-icon name="chevron-down" aria-hidden="true"></ion-icon>
+
+<ion-icon name="calendar-clear-outline" aria-hidden="true"></ion-icon>
+
+<ion-icon name="time-outline" aria-hidden="true"></ion-icon>
+08 : 00 am
+<ion-icon name="chevron-down" aria-hidden="true"></ion-icon>
+
+placeholder = Message
+
+Book A Table
+
+Contact Us
+
+Booking Request
+
+91 98234 56789
+
+Location
+
+Sizzle & Spice, Lal Baug,
+Mumbai, India
+
+Lunch Time
+
+Monday to Sunday
+11.00 am - 2.30pm
+
+Dinner Time
+
+Monday to Sunday
+05.00 pm - 10.00pm
+
+
+
+#---------- FEATURES ----------#
+
+Why We Stand Out
+
+Our Core Excellence
+
+alt = icon
+
+Hygienic Food
+Prepared with cleanliness and safety to ensure health and well-being.
+
+Fresh Environment
+A clean, refreshing, and welcoming ambiance for a delightful dining experience.
+
+Skilled Chefs
+Expert culinary professionals crafting delicious and flavorful dishes.
+
+Event & Party
+Perfect venue and catering services for memorable celebrations.
+
+
+
+#---------- EVENT ----------#
+
+Recent Updates
+
+Upcoming Event
+
+alt = Flavour so good you’ll try to eat with your eyes.
+
+21/01/2021
+Food, Flavour
+Flavour so good you’ll try to eat with your eyes.
+
+10/02/2021
+Healthy Food
+
+10/03/2021
+Recipie
+
+View Our Blog
+
+
+
+#---------- FOOTER ----------#
+
+alt = grilliSizzle & Spice home
+
+Sizzle & Spice, Lal Baug, Mumbai, India
+
+booking@restuarant.com
+
+Booking Request : +91 99038 56789
+
+Open : 09:00 am - 01:00 pm
+
+Get News & Offers
+
+Subscribe us & Get 30% Off.
+
+<ion-icon name="mail-outline" aria-hidden="true"></ion-icon>
+
+placeholder = Your email
+
+Subscribe
+
+Home
+Menus
+About Us
+Our Chefs
+Contact
+
+Facebook
+Instagram
+Twitter
+Youtube
+Google Map
+
+&copy; 2021 Sizzle&Spice. All Rights Reserved | Crafted by
+
+https://github.com/codewithsangeetha
+
+codewithsangeetha
+
+
+
+#---------- BACK TO TOP ----------#
+
+aria-label = back to top
+
+<ion-icon name="chevron-up" aria-hidden="true"></ion-icon>
+
+
+
+#---------- MENU PAGE ----------#
+
+
+Delicious Menu
+Our Menu
+
+Special Selection
+Delicious Menu
+
+alt = Greek Salad
+Greek Salad
+Tomatoes, green bell pepper, sliced cucumber onion, olives, and feta cheese.
+₹800
+
+alt = Tokusen Wagyu
+Tokusen Wagyu
+Tomatoes, green bell pepper, sliced cucumber onion, olives...
+₹2500
+
+alt = Butternut Pumpkin
+Butternut Pumpkin
+Avocados with crab meat, red onion, crab salad stuffed bell pepper...
+₹1000
+
+alt = Opu Fish
+Opu Fish
+Vegetables, cheeses, ground meats, tomato sauce, seasonings...
+₹3500
+
+alt = Greek Salad
+Greek Salad
+Tomatoes, green bell pepper, sliced cucumber onion, olives, and feta cheese.
+₹800
+
+alt = Tokusen Wagyu
+Tokusen Wagyu
+Tomatoes, green bell pepper, sliced cucumber onion, olives...
+₹2500
+
+alt = Butternut Pumpkin
+Butternut Pumpkin
+Avocados with crab meat, red onion, crab salad stuffed bell pepper...
+₹1000
+
+alt = Opu Fish
+Opu Fish
+Vegetables, cheeses, ground meats, tomato sauce, seasonings and spices
+₹3500
+
+alt = feature banner
+
+Chef Selection
+Spaghetti Bolognese
+Spaghetti Bolognese is a classic Italian pasta dish featuring a rich, slow-cooked meat sauce made with minced beef, tomatoes, onions, and herbs. Served over spaghetti, it is hearty, flavorful, and perfect for a comforting meal. Though traditionally from Bologna, Italy, variations of this dish are popular worldwide. 🍝
+
+₹4000
+₹2000
+
+
+
+#---------- MENU PAGE ----------#
+
+Our Story
+About Us
+
+Each Dish Unfolds a Tale
+
+Sizzle Ipsum is the essence of culinary creativity, blending diverse ingredients to tell unique, flavorful stories. Sizzle Ipsum has become the go-to reference for innovative cuisine, where each dish offers a fresh, exciting experience.
+It has withstood the test of time, evolving while retaining its core of quality and craftsmanship, leaving an unforgettable impression on every plate.
+Serena Viatrix - Founder
+
+Lunch Time
+Monday to Sunday
+11.00 am - 2.30pm
+
+Dinner Time
+Monday to Sunday
+5.30 pm - 11.30 pm
+
+Contact Us
+Sizzle & Spice, Lal Baug, Mumbai, India
+
++91-923-123456
+reservation@restuarant.com
