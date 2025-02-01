@@ -1,8 +1,5 @@
 <div align="center">
 
-   ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/grilli)
-
-  <br />
   <br />
 
   <h2 align="center">Sizzle&Spice - Restaurant Website</h2>
