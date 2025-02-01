@@ -1,6 +1,6 @@
 <div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/grilli)
+
+   ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/grilli)
 
   <br />
   <br />
@@ -9,7 +9,7 @@
 
  Sizzle&Spice is a fully responsive restaurant website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://github.com/Sangeethas-hub/Restuarant--Website"><strong>➥ Live Demo</strong></a>
+  <a href="https://sangeethas-hub.github.io/Sizzle-Spice-Restaurant/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -30,10 +30,12 @@ Before you begin, ensure you have met the following requirements:
 To run **Sizzle&Spice** locally, run this command on your git bash:
 
 Windows:
-git clone https://github.com/Sangeethas-hub/Restuarant--Website
+git clone https://sangeethas-hub.github.io/Sizzle-Spice-Restaurant/
 
 ```bash
 
 ### License
 
 [CC](https://chooser-beta.creativecommons.org/)
+
+
