@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![GitHub repo size](https://github.com/Sangeethas-hub/Restuarant--Website)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/grilli)
 
   <br />
   <br />
